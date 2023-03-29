@@ -1,0 +1,6 @@
+git status      verziókövetés státusza
+git init        verzió követés indítása a mappára
+git add .       minden változtatás hozzáadása
+ls -Force.git
+rm -Force.git
+git commit -m "initial"
