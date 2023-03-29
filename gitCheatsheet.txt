@@ -12,3 +12,4 @@ git remote                  van e repo és ha van mi a neve(ha nincs létre hkel
 git remote add orginig(elnevezés) https://github.com/petergyenge/cheatsheets.git
 git remote -v               a repo részletes adatai
 git push (Az első alkalommal hibát ír, ezt másoljuk ki majd enter git push --set-upstream origin master)
+git clone https://github.com/AkosBartus/cheatsheets.git . repo klónozása (Figyeljünk, hogy olyan mappába klónozzunk ami nincs git követve és a végére tegyünk pontot . ezzel az adott mappára utala parancs)
