@@ -1,6 +1,6 @@
 git status                  verziókövetés státusza
 git init                    verzió követés indítása a mappára
-git add .                   minden változtatás hozzáadása
+git add .                   minden változtatás hozzáadása a következő verzióhoz
 ls -Force.git               .git mappa megjelenítése
 rm -Force.git               .git mappa törlése
 git commit -m "initial"     verziókövetéshez comit hozzáadás (stringbe adjuk meg a commitot)
