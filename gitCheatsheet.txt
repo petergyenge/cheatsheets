@@ -5,3 +5,5 @@ ls -Force.git
 rm -Force.git
 git commit -m "initial"     verziókövetéshez comit hozzáadás (stringbe adjuk meg a commitot)
 git log                     verziókövetéshez tartozó logokat mutatja
+git checkout *commit egyedi azonosítója*    kiválaszthatjuk melyik korábbi verzióra ugorjunk
+git switch -                visszalépés a MAIN ágra
