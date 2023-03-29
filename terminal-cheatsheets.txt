@@ -3,4 +3,8 @@ cd  change diretory -- mappa váltás
     cd *myFolder* Mappa név megadása után belép a mappába(első betű után Tab kiegészít)
     cd mappa\mappa2\mappa3  Így több mappán keresztül is haladhatunk
 	
-mkdir   make diretory mappa létrehozása (mkdir *mappa neve*)
+mkdir -- make diretory -- mappa létrehozása (mkdir *mappa neve*)
+ni -- new item -- Új file létrehozása
+ls -- list -- kilistázza az aktuális mappa tartalmát
+    ls - Force megjeleníti a rejtett fileokat is
+
