@@ -2,6 +2,7 @@ cd  change diretory -- mappa váltás
     cd .. vissza lépés az előző mappába(a space fontos)
     cd *myFolder* Mappa név megadása után belép a mappába(első betű után Tab kiegészít)
     cd mappa\mappa2\mappa3  Így több mappán keresztül is haladhatunk
+    cd\ root mappába lép vissza
 	
 mkdir -- make diretory -- mappa létrehozása (mkdir *mappa neve*)
 ni -- new item -- Új file létrehozása
