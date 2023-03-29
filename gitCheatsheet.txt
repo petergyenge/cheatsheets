@@ -7,3 +7,6 @@ git commit -m "initial"     verziókövetéshez comit hozzáadás (stringbe adju
 git log                     verziókövetéshez tartozó logokat mutatja
 git checkout *commit egyedi azonosítója*    kiválaszthatjuk melyik korábbi verzióra ugorjunk
 git switch -                visszalépés a MAIN ágra
+
+git remote                  a repo neve
+git remote -v               a repo részletes adatai
